@@ -1,2 +1,2 @@
-# LeetCode_Piece
-It's my daily practice record on LeetCode.
+# DP_Piece
+This repository is my collection of dynamic programming (DP) studies.
